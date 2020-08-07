@@ -158,6 +158,14 @@ Tapping on a link will take you to relevant materials.
             - [ ] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
             - [ ] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
             - [ ] YAPDatabase
+            - [ ] Serialize:
+                - [ ] Keychain
+                - [ ] JSON
+                - [ ] Plist
+            - [ ] KeyedArchiver
+            - [ ] Cloud:
+                - [ ] iCloud
+                - [ ] Firebase
         - [ ] `Testing`
             - [ ] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
             - [ ] Snapshot Tests
@@ -178,6 +186,7 @@ Tapping on a link will take you to relevant materials.
         - [ ] Continuous Integration
             - [ ] Jenkins
             - [ ] Xcode server
+            - [ ] Travis
         - [ ] Security
             - [ ] [Keychain](Resources/iOS_Developer/Practical_knowledge/Security/Keychain/RESOURCES.md)
             - [ ] Security Transforms API
@@ -219,4 +228,11 @@ Tapping on a link will take you to relevant materials.
                 - [ ] Functional Reactive Programming Frameworks
                     - [ ] React Native
                     - [ ] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
+                    - [ ] RxRealm, RxDataSources
+        - [x] App Store:
+            - [x] Review Guideline
+            - [x] iTunes Connect
+        - [x] Analytic Tools:
+            - [x] Firebase Crashlytics
+            - [x] TestFlight
                     - [ ] RxRealm, RxDataSources
